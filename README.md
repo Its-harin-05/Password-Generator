@@ -48,6 +48,7 @@ python app.py
 - **Generate Password:** Click the "Generate" button to create a password based on the selected criteria.
   
 - **Copy Password:** Click the "Copy" button to copy the generated password to the clipboard.
+  
 
 <h2>Contribution</h2>
 
